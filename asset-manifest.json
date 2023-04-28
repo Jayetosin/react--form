@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react--form/static/css/main.a02c5ae0.css",
+    "main.js": "/react--form/static/js/main.274f2ce4.js",
+    "static/js/787.aeb39de0.chunk.js": "/react--form/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/react--form/index.html",
+    "main.a02c5ae0.css.map": "/react--form/static/css/main.a02c5ae0.css.map",
+    "main.274f2ce4.js.map": "/react--form/static/js/main.274f2ce4.js.map",
+    "787.aeb39de0.chunk.js.map": "/react--form/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a02c5ae0.css",
+    "static/js/main.274f2ce4.js"
+  ]
+}
