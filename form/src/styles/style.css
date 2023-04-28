@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 50px;
+    align-items: center;
+    background-color: blue;
+}
+.form{
+    text-align: center;
+    text-align: left;
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+}
+input {
+    width: 60%; 
+    margin: 5px 0; 
+    text-align: left;
+    width: 400px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+h2{
+    margin: 20px auto;
+    text-align: center;
+}
+
+        
